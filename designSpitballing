@@ -34,3 +34,22 @@ i think ansible or saltstack, cause its just YAML Python
 of course the use would be free
 
 Message #talkative-chat
+i guess the tasklist would be based on priority and urgency, and the conf file would dictate behavoir based on those factors, as well as need by dates
+[9:51 PM]
+but some tasks will be included in the DSL and there will be meta data around them that would also be updated and used based on the conf file
+[9:52 PM]
+need to integrate a reward system as well
+[9:52 PM]
+to gamify your accomplishments
+[9:53 PM]
+maybe you could gain levels based on regular performace of task completions
+[9:54 PM]
+i hope we can get a group interested in this project, i guess ill get one of those free online offices so we could work on this
+[9:55 PM]
+i am really interested in making devices to integrate with this as well, dont have any ideas yet
+[9:55 PM]
+but a smart phone and smart watch are a good place to start for a client
+[9:58 PM]
+im going to listed to jessicas next video on motivation and try and incorporate that, id like to have the AI break down goals into specific peices that are trackable, in a voice conversation with you
+[9:58 PM]
+that is why the DSL is important
