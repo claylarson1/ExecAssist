@@ -1,0 +1,36 @@
+ guess we need a Data Specific Language, im thinking we structure it after some configuration management software, and the AI would look for task completions to start off with, based on some given input, and would have behaviors based around the status of tasks, that would be configurable, in conf files ... there would be a server location for the AI, and it would push or pull status from various clients on mobile devices or sensors around the house
+[9:30 PM]
+the UI would set the conf files, target clients, tasks ectera... but that is just an intial activity, there would be a limitless application of it really
+[9:32 PM]
+anyway, CHEF, Ansible, Puppet dunno what to base it off of
+[9:33 PM]
+yeah, smart watches, smart phones or any other internet of thing device could work with it, even ones we specially design
+[9:33 PM]
+want the thing to be voice driven
+[9:34 PM]
+music playing devices (edited)
+[9:36 PM]
+id like it to integrate with some apps too
+[9:37 PM]
+med dispensing
+[9:37 PM]
+location tracking of things in house
+[9:39 PM]
+like, maybe checking in and out some things as you use them, voice activated, for tools... you would never use this as is but if it is incorperated in the overall design as you do a task it could help
+[9:40 PM]
+hmmm
+[9:40 PM]
+Metrics    Chef     Puppet    Ansible    Saltstack
+ Availability                
+ Ease of Setup    Not very easy    Not very easy    Easy    Not very easy
+ Management    Not very easy    Not very easy    Easy    Easy
+ Scalability    Highly Scalable    Highly Scalable    Highly Scalable    Highly Scalable
+Configuration language    DSL(Ruby)    DSL(PuppetDSL)    YAML(Python)    YAML(Python)
+ Interoperability    High    High    High    High
+ Pricing (upto 100 nodes)    $13700    $11200-$19900    $10,000    $15,000(approx.)
+[9:41 PM]
+i think ansible or saltstack, cause its just YAML Python
+[9:42 PM]
+of course the use would be free
+
+Message #talkative-chat
